@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Coroutine-Supervisor-Job-Example</string>
+    <string name="coroutine_example">Coroutine example</string>
+</resources>
